@@ -38,6 +38,6 @@ Data cleaning, visualization and insights on government spending datasets.
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/saraandrade)  
+- [LinkedIn](https://linkedin.com/in/sara-andradee)  
 - [GitHub](https://github.com/saraandrade0)  
 - 📧 saraalvesand@gmail.com
