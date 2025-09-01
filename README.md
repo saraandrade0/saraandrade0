@@ -21,8 +21,9 @@ I specialize in building **automated data pipelines**,
 🔹 [**Automated Data Pipeline with AWS & SQLite**](https://github.com/saraandrade0/project-pipeline)  
 End-to-end pipeline integrating Athena, Glue and SQLite using YAML-based specs.  
 
-🔹 [**SOX Compliance Automation**](https://github.com/saraandrade0/project-sox)  
-Automation of SOX testing and compliance controls using Python and SQL.  
+🔹 [**Exemption Monitoring System**](https://github.com/saraandrade0/project-exemption-monitoring)  
+Synthetic data generation and monitoring framework to detect exemption patterns, validate business rules with Decision Trees, and provide automated visual analytics for compliance insights.
+  
 
 🔹 [**Public Data Analysis: Travel Expenses**](https://github.com/saraandrade0/project-public-data)  
 Data cleaning, visualization and insights on government spending datasets.  
