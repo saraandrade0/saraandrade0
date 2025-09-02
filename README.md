@@ -18,7 +18,7 @@ I specialize in building **automated data pipelines**,
 
 ## 📂 Featured Projects
 
-🔹 [ML Pipeline: Tokenization & Classification](https://github.com/saraandrade0/ml-pipeline-tokenization)  
+🔹 [**ML Pipeline: Tokenization & Classification**](https://github.com/saraandrade0/ml-pipeline-tokenization)  
 End-to-end machine learning pipeline for text preprocessing, TF-IDF vectorization, logistic regression training, and scoring new datasets.
 
 🔹 [**Exemption Monitoring System**](https://github.com/saraandrade0/project-exemption-monitoring)  
