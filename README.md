@@ -31,10 +31,11 @@ Data cleaning, visualization and insights on government spending datasets.
 ---
 
 ## 🏢 Experience
-- **Research Analyst – Itaú Unibanco ICT Program (2025–Present)**  
-  - Developed ML pipelines for fraud detection and compliance risk.  
-  - Automated SQL/Athena queries and partition control with Glue.  
-  - Designed scalable data pipelines with AWS SageMaker and Python.  
+**Research Analyst – Itaú Unibanco ICT Program (2025–Present)**  
+- Developing **machine learning pipelines** for text classification and fraud/risk detection.  
+- Hands-on training with **ML model development** (tokenization, TF-IDF, logistic regression, evaluation, scoring).  
+- Automating **SQL/Athena queries** and partition management with AWS Glue.  
+- Designing and testing **scalable data pipelines** with AWS SageMaker and Python.  
 
 ---
 
