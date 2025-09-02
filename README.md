@@ -18,8 +18,8 @@ I specialize in building **automated data pipelines**,
 
 ## 📂 Featured Projects
 
-🔹 [**Automated Data Pipeline with AWS & SQLite**](https://github.com/saraandrade0/project-pipeline)  
-End-to-end pipeline integrating Athena, Glue and SQLite using YAML-based specs.  
+🔹 [ML Pipeline: Tokenization & Classification](https://github.com/saraandrade0/ml-pipeline-tokenization)  
+End-to-end machine learning pipeline for text preprocessing, TF-IDF vectorization, logistic regression training, and scoring new datasets.
 
 🔹 [**Exemption Monitoring System**](https://github.com/saraandrade0/project-exemption-monitoring)  
 Synthetic data generation and monitoring framework to detect exemption patterns, validate business rules with Decision Trees, and provide automated visual analytics for compliance insights.
