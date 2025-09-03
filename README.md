@@ -23,10 +23,9 @@ End-to-end machine learning pipeline for text preprocessing, TF-IDF vectorizatio
 
 🔹 [**Exemption Monitoring System**](https://github.com/saraandrade0/project-exemption-monitoring)  
 Synthetic data generation and monitoring framework to detect exemption patterns, validate business rules with Decision Trees, and provide automated visual analytics for compliance insights.
-  
 
-🔹 [**Public Data Analysis: Travel Expenses**](https://github.com/saraandrade0/project-public-data)  
-Data cleaning, visualization and insights on government spending datasets.  
+🔹 [**RAG Agent**](https://github.com/saraandrade0/rag-agent)  
+LLM-powered retrieval-augmented generation pipeline that combines vector search, dynamic context retrieval, and LangGraph orchestration to build agents capable of reasoning, routing, and interacting with tools in multi-step workflows.Data cleaning, visualization and insights on government spending datasets.  
 
 ---
 
