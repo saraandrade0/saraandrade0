@@ -25,7 +25,7 @@ End-to-end machine learning pipeline for text preprocessing, TF-IDF vectorizatio
 Synthetic data generation and monitoring framework to detect exemption patterns, validate business rules with Decision Trees, and provide automated visual analytics for compliance insights.
 
 🔹 [**RAG Agent**](https://github.com/saraandrade0/rag-agent)  
-LLM-powered retrieval-augmented generation pipeline that combines vector search, dynamic context retrieval, and LangGraph orchestration to build agents capable of reasoning, routing, and interacting with tools in multi-step workflows.Data cleaning, visualization and insights on government spending datasets.  
+LLM-powered retrieval-augmented generation pipeline that combines vector search, dynamic context retrieval, and prompt-based orchestration to answer questions over custom data. Includes data cleaning, preprocessing, and visualization steps, making it useful for generating insights on structured datasets such as government spending. 
 
 ---
 
