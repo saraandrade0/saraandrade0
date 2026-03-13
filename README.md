@@ -39,7 +39,7 @@ Synthetic data generation and monitoring framework to detect exemption patterns,
 - Engineering large-scale data pipelines (780GB+) with AWS SageMaker, Glue, and Athena
 - Fine-tuning and deploying NLP models for text classification
 
-**IT Manager — Brazilian Army (2018–2023)**
+**IT Manager — Brazilian Army (2020–2025)**
 - Managed data systems and operational reporting for 5+ years
 - Built automated dashboards and BI solutions with Power BI
 
