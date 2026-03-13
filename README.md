@@ -10,7 +10,7 @@ I specialize in building end-to-end ML solutions — from data ingestion and fea
 
 - **ML & AI:** PyTorch, Transformers (fine-tuning BERT), LLMs, RAG, NLP, Prompt Engineering, Anomaly Detection, Fraud Scoring
 - **RAG Stack:** LangGraph, LangChain, Llama Parse, ChromaDB, sentence-transformers, BM25, hybrid search
-- **Cloud & Data:** AWS (SageMaker, Glue, Athena, S3), MongoDB, PostgreSQL, Docker
+- **Cloud & Data:** AWS (SageMaker, Glue, Athena, S3), MongoDB, Docker
 - **Programming:** Python (Pandas, scikit-learn, PyTorch, FastAPI), SQL, Git
 
 ---
